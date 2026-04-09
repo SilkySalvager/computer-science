@@ -88,7 +88,7 @@ just remember that you can't purchase success!
 
 - [ ] [Prerequisites](#prerequisites)
 - [ ] [Intro CS](#intro-cs)
-- [ ][Core CS](#core-cs)
+- [ ] [Core CS](#core-cs)
   - [ ] [Core programming](#core-programming)
   - [ ] [Core math](#core-math)
   - [ ] [CS Tools](#cs-tools)
